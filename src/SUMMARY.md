@@ -9,11 +9,11 @@
 
 - [Advanced Programming and Development](ch03-00-advanced-programming.md)
 
-- [Blockchain Development](ch04-00-blockchain-development.md)
+- [Open Source Contribution and Community](ch04-00-open-source-and-community.md)
 
-- [Decentralized Finances](ch05-00-descentralized-finances.md)
+- [Blockchain Development](ch05-00-blockchain-development.md)
 
-- [Open Source Contribution and Community](ch06-00-open-source-and-community.md)
+- [Decentralized Finances](ch06-00-descentralized-finances.md)
 
 - [Career Planning and Advancement](ch07-00-career-advancement.md)
 
