@@ -1,1 +1,9 @@
 book
+target
+output
+node_modules
+
+# Editors tmp files.
+*~
+.idea/
+.DS_Store
