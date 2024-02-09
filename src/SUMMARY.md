@@ -13,7 +13,7 @@
 
 - [Blockchain Development](ch05-00-blockchain-development.md)
 
-- [Decentralized Finances](ch06-00-descentralized-finances.md)
+- [Decentralized Finances](ch06-00-decentralized-finances.md)
 
 - [Career Planning and Advancement](ch07-00-career-advancement.md)
 
