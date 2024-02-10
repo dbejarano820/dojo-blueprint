@@ -16,8 +16,9 @@ Developers are athletes.
 Developers are investors.
 
 ### [Who will join the Dojo?](https://blueprint.dojo.io)
-
-
+<div style="text-align: center;">
+    <img src="images/dojo-samurai.png" height="500" alt="Dojo Samurai">
+</dv>
 
 ## Contribution
 
