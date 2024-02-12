@@ -16,3 +16,5 @@ Technology grants us unparalleled freedoms:
 This era empowers us to redefine success on our terms, using technology as the key to unlock a world of opportunities.
 
 ## Overview of the Blueprint
+
+Here would is the overview.
