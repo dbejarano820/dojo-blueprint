@@ -23,7 +23,6 @@ Dive into the heart of the web3 revolution, where developers are pivotal in shap
 Acquiring such experiences will not only open numerous doors but will also refine and immensely elevate your professional profile, making it truly distinctive.
 
 ### What to expect?
-
 Embarking on the Dojo Blueprint journey is the first step toward turning your passion for technology into a tangible skill set that can significantly impact your future. This journey is designed to progress from the fundamentals of programming to engaging in real-world projects and discussions that transcend geographical boundaries.
 
 You'll also gain insights into the evolving digital economies and the dynamics of value transactions. It's a New World, and those who leverage and stay current with technology stand to gain immensely.
@@ -37,7 +36,7 @@ A Structured Path to Mastery
 
 - Blockchain Specialization: Immerse yourself in blockchain and cryptocurrencies, understanding the core of decentralized technology and beginning your journey in open-source contributions.
 
-**Key Milestones:**
+Key Milestones:
 - First Project Launch: Bring your learning to life with a personal project that showcases your newfound skills.
 
 - Open Source Contributions: Make a meaningful impact with your initial introduction into open-source projects, enhancing your collaborative and development muscle.
@@ -48,12 +47,9 @@ A Structured Path to Mastery
 
 
 ### Target Audience
-
 The Dojo Blueprint is for those ready to invest in their growth across all critical pillars of life. It's more than a transformation; it's a meticulously plotted game plan for those aiming for a lifestyle of freedom, with technology as both a vehicle and destination.
 
 Whether you're a beginner with minimal programming knowledge or a developer seeking to break through plateaus, scale your income, and connect globally, this blueprint is your roadmap.
-
-**Welcome to the Dojo.**
 
 
 ## Philosophy and Approach
