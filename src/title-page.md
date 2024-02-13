@@ -49,7 +49,7 @@ For seasoned developers, the Blueprint accelerates your entry into the innovativ
 - **Non-Skippable Chapter:** Even for experienced developers, **Chapter 1: Setting the Foundation: Mindset and Goals** remains non-skippable. It's designed to complement your technical skills with a robust mindset for innovation, adaptation, and leadership in tech—qualities that distinguish great developers.
 - **Further Exploration:** From there, you're well-positioned to explore advanced topics tailored to your interests and career goals, such as **Web3 and Blockchain Development** or diving into **Decentralized Finances** to understand the financial systems of tomorrow.
 
-### For All Learners:
+### For Everyone:
 
 Regardless of your starting point, the Dojo Blueprint emphasizes the importance of a well-rounded approach to learning and development. Engaging with the community, setting personal and professional goals, and adopting a mindset geared towards growth and resilience are foundational steps on your journey to mastery.
 
@@ -66,10 +66,6 @@ Remember, the journey through tech is as much about personal growth and adaptati
 - Exercises unclear? Add explanations.
 
 ## Additional Dojo Coding Resources
-
-<!-- Here's a list of valuable educational resources that will help
-deepen your understanding and enhance your skills in coding with Cairo
-and staying abreast with Starknet developments: -->
 
 1.  **Dojo Coding Private Network**: An exclusive community of developers searching for freedom through technology. Coding, life engineering, blockchain and decentralized finances. You can apply here [here](https://skool.com/dojo-coding).
 
