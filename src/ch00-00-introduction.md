@@ -18,3 +18,5 @@ This era empowers us to redefine success on our terms, using technology as the k
 ## Overview of the Blueprint
 
 Here would is the overview.
+
+and yes, i'm blasted.
