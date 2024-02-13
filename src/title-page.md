@@ -8,6 +8,8 @@ Understanding that all the resources required for the transformation are free an
 
 The [Dojo Coding Private Network](https://skool.com/dojo-coding) is an exclusive Skool community for individuals that strive for freedom through technology. All things coding, blockchain, life engineering and decentralized finances.
 
+Here, members will have access to additional trainings regarding this blueprint, workshops and consulting sessions.
+
 For greater guidance regarding implementation of this blueprint, reach out to [Daniel Bejarano](https://instagram.com/danielbejaranocr) to apply his 1:1 coaching service.
 
 ## Table of Contents
