@@ -2,7 +2,7 @@
 
 The Dojo Blueprint is a game plan that is constantly evolving and improving, shaped by ongoing community input from the Dojo Coding Private Network. Some sections may be incomplete or still under review and are marked under a 🚧 emoji.
 
-It's a step-by-step game plan aimed to equip you with you with the most important frameworks and tools in order to become a global developer, and even a founder if you wish.  
+It's a step-by-step game plan aimed to equip you with you with the most important frameworks and tools in order to become a global developer, and even a founder if you wish.
 
 Understanding that all the resources required for the transformation are free and online. A transformation not only into a high earning developer with great technical skils, but one that can master their own habits and properly network. That's why this blueprint works, it provides the clarity necessary to break out of your shell and keep leveling up.
 
@@ -10,23 +10,23 @@ The [Dojo Coding Private Network](https://skool.com/dojo-coding) is an exclusive
 
 For greater guidance regarding implementation of this blueprint, reach out to [Daniel Bejarano](https://instagram.com/danielbejaranocr) to apply his 1:1 coaching service.
 
-
 ## Table of Contents
 
 **Chapter Titles**
 
-| Chapter                  | Description                                                                                                                                                                                           |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0: Dojo  Introduction | Delve into the fundamental concepts of Starknet and acquaint yourself with the deployment of smart contracts.                                                                                         |
-| 1: Setting the Foundation: Mindset and Goals      | Familiarize yourself with vital tools, such as Starkli, Katana, Scarb, Starknet-Foundry and more. Explore how languages like Javascript, Python, and Rust can be leveraged for Starknet interactions. |
-| 2: Basics of Programming | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
-| 3: Advanced Programming and Development   | Delve deep into Starknet’s unique approach to user accounts, and master the art of crafting custom accounts.                                                                                          |
-| 4: OSS Contributions and Community                | Dive into the intricacies of STARKs and their pivotal role in shaping Starknet’s landscape.                                                                                                           |
-| 5: Web3 and Blockchain Development | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
-| 6: Web3 and Blockchain Development | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
-| 7: Career Planning and Advancement | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
-| 8: Real-World Projects and Portfolio Building | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
+| Chapter                                          | Description                                                                                                                                                                                           |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0: Dojo Introduction                             | Delve into the fundamental concepts of Starknet and acquaint yourself with the deployment of smart contracts.                                                                                         |
+| 1: Setting the Foundation: Mindset and Goals     | Familiarize yourself with vital tools, such as Starkli, Katana, Scarb, Starknet-Foundry and more. Explore how languages like Javascript, Python, and Rust can be leveraged for Starknet interactions. |
+| 2: Basics of Programming                         | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
+| 3: Advanced Programming and Development          | Delve deep into Starknet’s unique approach to user accounts, and master the art of crafting custom accounts.                                                                                          |
+| 4: OSS Contributions and Community               | Dive into the intricacies of STARKs and their pivotal role in shaping Starknet’s landscape.                                                                                                           |
+| 5: Web3 and Blockchain Development               | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
+| 6: Web3 and Blockchain Development               | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
+| 7: Career Planning and Advancement               | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
+| 8: Real-World Projects and Portfolio Building    | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
 | 9: Staying Ahead: Trends and Future Technologies | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
+
 # Where to Start?
 
 Depending on your goals and interests, you can choose different paths
@@ -66,7 +66,6 @@ various objectives:
 Feel free to mix and match these paths based on your unique interests
 and requirements.
 
-
 ## How You Can Help
 
 - Think the blueprint needs a new section? Suggest one.
@@ -76,7 +75,6 @@ and requirements.
 - Found a bug? Fix it.
 
 - Exercises unclear? Add explanations.
-
 
 # Additional Dojo Coding Resources
 
