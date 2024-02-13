@@ -20,3 +20,5 @@
 - [Real-World Projects and Portfolio Building](ch08-00-project-and-portfolio.md)
 
 - [Staying Ahead: Trends and Future Technologies](ch09-00-staying-ahead.md)
+
+- [The Dojo Continues: Lifelong Learning and Community Engagement](ch10-00-lifelong-learning.md)

@@ -4,7 +4,7 @@ The Dojo Blueprint is a game plan that is constantly evolving and improving, sha
 
 It's a step-by-step game plan aimed to equip you with you with the most important frameworks and tools in order to become a global developer, and even a founder if you wish.
 
-Understanding that all the resources required for the transformation are free and online. A transformation not only into a high earning developer with great technical skils, but one that can master their own habits and properly network. That's why this blueprint works, it provides the clarity necessary to break out of your shell and keep leveling up.
+Understanding that all the resources required for the transformation are free and online. A transformation not only into a high earning developer with great technical skills, but one that can master their own habits and properly network. That's why this blueprint works, it provides the clarity necessary to break out of your shell and keep leveling up.
 
 The [Dojo Coding Private Network](https://skool.com/dojo-coding) is an exclusive Skool community for individuals that strive for freedom through technology. All things coding, blockchain, life engineering and decentralized finances.
 
@@ -14,57 +14,46 @@ For greater guidance regarding implementation of this blueprint, reach out to [D
 
 **Chapter Titles**
 
-| Chapter                                          | Description                                                                                                                                                                                           |
-| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0: Dojo Introduction                             | Delve into the fundamental concepts of Starknet and acquaint yourself with the deployment of smart contracts.                                                                                         |
-| 1: Setting the Foundation: Mindset and Goals     | Familiarize yourself with vital tools, such as Starkli, Katana, Scarb, Starknet-Foundry and more. Explore how languages like Javascript, Python, and Rust can be leveraged for Starknet interactions. |
-| 2: Basics of Programming                         | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
-| 3: Advanced Programming and Development          | Delve deep into Starknet’s unique approach to user accounts, and master the art of crafting custom accounts.                                                                                          |
-| 4: OSS Contributions and Community               | Dive into the intricacies of STARKs and their pivotal role in shaping Starknet’s landscape.                                                                                                           |
-| 5: Web3 and Blockchain Development               | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
-| 6: Web3 and Blockchain Development               | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
-| 7: Career Planning and Advancement               | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
-| 8: Real-World Projects and Portfolio Building    | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
-| 9: Staying Ahead: Trends and Future Technologies | Uncover Starknet’s core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.                                                        |
+| Chapter                                                            | Description                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0: Dojo Introduction                                               | Dive into the Dojo Blueprint, your comprehensive guide from novice to expert. This introduction sets the stage, outlining the journey ahead and what to expect as you transform your passion for technology into a tangible skill set.                                                                                                                                                                                            |
+| 1: Setting the Foundation: Mindset and Goals                       | Explore the importance of a growth mindset and goal setting as foundational elements for success in coding and beyond. Learn how to cultivate resilience, discipline, and a vision for your future in tech.                                                                                                                                                                                                                       |
+| 2: Basics of Programming                                           | Begin your coding journey with the basics. Understand core programming concepts, languages, and the logic that underpins effective coding practices. This chapter lays the groundwork for all future development work.                                                                                                                                                                                                            |
+| 3: Advanced Programming and Development                            | Elevate your coding skills with advanced programming concepts and development strategies. Delve into full-stack development, exploring both front-end and back-end technologies to create dynamic, responsive solutions.                                                                                                                                                                                                          |
+| 4: OSS Contributions and Community                                 | Discover the value of open source software (OSS) contributions and how they accelerate your learning and career. Learn to navigate and contribute to the OSS community, enhancing both your skills and your professional network.                                                                                                                                                                                                 |
+| 5: Web3 and Blockchain Development                                 | Step into the world of Web3 and blockchain development. Understand decentralized technologies, smart contracts, and how to build on blockchain platforms. This chapter focuses on the skills needed for the future of finance and internet freedom.                                                                                                                                                                               |
+| 6: Decentralized Finances                                          | Dive into the revolutionary world of Decentralized Finance (DeFi). This chapter demystifies the concepts, technologies, and platforms that define DeFi, teaching you how to safely navigate and leverage this new financial paradigm for personal and professional growth. Learn about the impact of DeFi on traditional finance, explore key projects, and understand how to participate in and benefit from the DeFi ecosystem. |
+| 7: Career Planning and Advancement                                 | Focus on translating your skills into career opportunities. Learn how to navigate the job market, leverage your network, and position yourself for roles that match your aspirations and lifestyle goals.                                                                                                                                                                                                                         |
+| 8: Real-World Projects and Portfolio Building                      | Apply what you've learned by tackling real-world projects. This chapter guides you through selecting projects, building your portfolio, and showcasing your work to potential employers or clients.                                                                                                                                                                                                                               |
+| 9: Staying Ahead: Trends and Future Technologies                   | Stay ahead of the curve by exploring emerging trends and technologies. Learn how to keep your skills relevant in a rapidly evolving tech landscape and how to continuously adapt and grow in your career.                                                                                                                                                                                                                         |
+| 10: The Dojo Continues: Lifelong Learning and Community Engagement | Embrace lifelong learning and active community engagement as ongoing commitments. This chapter discusses strategies for continuous self-improvement, staying engaged with the Dojo community, and contributing to the tech ecosystem at large.                                                                                                                                                                                    |
 
-# Where to Start?
+## Where to Start?
 
-Depending on your goals and interests, you can choose different paths
-through the Starknet Book. Here are some recommendations based on
-various objectives:
+The Dojo Blueprint is designed to accommodate learners at various stages of their coding journey, from complete beginners to seasoned developers. Regardless of where you're starting, one thing remains constant: the foundational chapters on mindset and fundamentals are pivotal for all. Here's how different learners can approach the Blueprint:
 
-- If you’re a **complete beginner** and want to start learning about
-  Cairo and Starknet from scratch, follow the book in its entirety,
-  starting with **Introduction to Starknet**.
+### Beginners and Career Pivoters:
 
-- If you’re an **experienced developer** looking to quickly dive into
-  writing scalable and decentralized smart contracts, focus on the
-  Cairo Book, particularly **chapter 12: Starknet Smart Contracts**
-  ([link](https://book.cairo-lang.org/ch99-00-starknet-smart-contracts.html)).
+For those new to programming or looking to pivot their career into tech, the Dojo Blueprint offers a comprehensive pathway to not only learn coding from scratch but also to understand the broader tech landscape including blockchain and Web3.
 
-- If you’re a **frontend developer** wanting to integrate Starknet
-  with a React frontend using Javascript, prioritize the
-  **starknet-js** and **starknet-react** subchapters in **Starknet
-  Tooling**
+- **Starting Point:** Begin with **Chapter 0: Dojo Introduction** to get acquainted with the scope and benefits of the coding journey you're about to embark on.
+- **Non-Skippable Chapter:** **Chapter 1: Setting the Foundation: Mindset and Goals** is crucial for building the right mindset for success in tech. It emphasizes the importance of resilience, a growth mindset, and goal-setting—skills that are essential regardless of your technical prowess.
+- **Progression:** After solidifying your mindset and goals, move on to **Chapter 2: Basics of Programming** to build a strong foundation in coding principles and practices.
+- **Path Forward:** As you grow more confident in your skills, advance through the Blueprint, tackling chapters that align with your interests and career aspirations, from full-stack development to blockchain technologies.
 
-- If you’re a **DevOps engineer** or **node operator** interested in
-  running a Starknet node and indexer, head straight to **Starknet
-  Architecture**.
+### Experienced Developers:
 
-- If you’re a **security researcher** or **smart contract auditor**
-  wanting to learn about the Account Abstraction feature and its
-  implications, go for **Account Abstraction**.
+For seasoned developers, the Blueprint accelerates your entry into the innovative fields of blockchain and open source contributions, expanding your skill set and potentially opening new career opportunities.
 
-- If you’re a **blockchain enthusiast** curious about the underlying
-  architecture and mechanics of Starknet and Cairo, explore **Starknet
-  Architecture**.
+- **Direct Dive:** You're encouraged to start with **Chapter 4: OSS Contributions and Community**. This chapter will guide you on how to leverage your existing skills to contribute to open source software, an invaluable part of the tech ecosystem that fosters continuous learning and community engagement.
+- **Non-Skippable Chapter:** Even for experienced developers, **Chapter 1: Setting the Foundation: Mindset and Goals** remains non-skippable. It's designed to complement your technical skills with a robust mindset for innovation, adaptation, and leadership in tech—qualities that distinguish great developers.
+- **Further Exploration:** From there, you're well-positioned to explore advanced topics tailored to your interests and career goals, such as **Web3 and Blockchain Development** or diving into **Decentralized Finances** to understand the financial systems of tomorrow.
 
-- If you’re a **cryptography expert** or **researcher** eager to
-  understand the fundamentals of STARKs and their connection to the
-  Starknet ecosystem, delve into **STARKs**.
+### For All Learners:
 
-Feel free to mix and match these paths based on your unique interests
-and requirements.
+Regardless of your starting point, the Dojo Blueprint emphasizes the importance of a well-rounded approach to learning and development. Engaging with the community, setting personal and professional goals, and adopting a mindset geared towards growth and resilience are foundational steps on your journey to mastery.
+
+Remember, the journey through tech is as much about personal growth and adaptation as it is about acquiring new technical skills. The Dojo Blueprint is more than just a learning path, it's a guide to freedom through technology.
 
 ## How You Can Help
 
@@ -76,28 +65,14 @@ and requirements.
 
 - Exercises unclear? Add explanations.
 
-# Additional Dojo Coding Resources
+## Additional Dojo Coding Resources
 
 <!-- Here's a list of valuable educational resources that will help
 deepen your understanding and enhance your skills in coding with Cairo
 and staying abreast with Starknet developments: -->
 
-1.  **Starklings**: A resource specifically designed to guide you
-    through learning Cairo programming, ensuring that you reach a
-    proficient level. You can access it
-    [here](https://github.com/shramee/starklings-cairo1).
+1.  **Dojo Coding Private Network**: An exclusive community of developers searching for freedom through technology. Coding, life engineering, blockchain and decentralized finances. You can apply here [here](https://skool.com/dojo-coding).
 
-2.  **Starknet Community Forum**: An online platform where you can
-    engage in discussions about the latest developments in Starknet.
-    Join the conversation [here](https://community.starknet.io/).
+2.  **OnlyDust**: A platform with 150+ open source blockchain projects looking for contributions. Get paid for learning new technologies, meet curious developers all over the world and evolve your profile. Join the platform [here](https://www.onlydust.com/?utm_medium=event&utm_source=danielbejarano).
 
-3.  **Starknet Documentation**: You can browse through the documentation
-    [here](https://docs.starknet.io/).
-
-4.  **Cairo Documentation**: Explore it
-    [here](https://www.cairo-lang.org/docs).
-
-5.  **Starknet Developer Telegram (English)**: A community for
-    English-speaking Starknet developers. This is a great platform for
-    networking, sharing ideas, and troubleshooting together. Join us on
-    Telegram [here](https://t.me/starknetna).
+3.  **Node Guardians**: The perfect place to learn and refine your web3 skills through quests. Earn rewards and level up your Smart Contract skills in an immersive learning experience. It's a public good! Learn [here](https://nodeguardians.io/).
