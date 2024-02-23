@@ -3,8 +3,11 @@
 [The Dojo Blueprint](title-page.md)
 [Introduction](ch00-00-introduction.md)
 
-- [Setting the Foundation: Mindset and Goals](ch01-00-setting-foundation.md)
-
+- [Setting the Foundation](ch01-00-setting-foundation.md)
+    - [Growth Mindset and The Process](ch01-01-growth-mindset.md)
+    - [Goal Setting and Discipline](ch01-02-goal-setting-and-discipline.md)
+    - [Common Obstacles during Coding Journey](ch01-03-coding-setbacks.md)
+    
 - [Basics of Programming](ch02-00-basics-programming.md)
 
 - [Advanced Programming and Development](ch03-00-advanced-programming.md)
