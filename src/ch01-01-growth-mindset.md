@@ -1,4 +1,4 @@
-## Understanding what's possible
+# Understanding what's possible
 It's no secret people dream of "making it". But what does making it mean? At what point do you know when you officially make it? Is there a $ amount? Is there a specific lifestyle?
 
 I've had many conversations regarding this with highly successful people according to the metrics society cares about.
@@ -21,10 +21,18 @@ This makes sense once you're in the middle of your ***Hero's Journey***, this is
 
 Most things of high value and that are worth pursuing in life, aren't easy to get.
 
-
 ## Cultivating a Growth Mindset
-Understanding Growth vs. Fixed Mindset: Introduction to the two types of mindsets and their impact on learning and development.
+At many points during the journey, it's common to feel like you can't keep going. Moments of doubt. 
 
-Strategies for Developing a Growth Mindset: Practical tips and exercises to foster resilience, embrace challenges, and view failures as opportunities for growth.
+The infamous imposter syndrome...
+> "the persistent inability to believe that one's success is deserved or has been legitimately achieved as a result of one's own efforts or skills."
 
-Mindset in Practice: Real-world examples of how a growth mindset can lead to success in tech.
+Quick tips as to how you can overcome the imposter syndrome when ever it comes up, because it will.
+
+- Acknowledge your accomplishments
+- Avoid comparison
+- Practice positive affirmations
+- Celebrate your successes
+- Assess the evidence
+
+Growth is a never ending journey. Tune your brain. Observe your thoughts without judgement. 
