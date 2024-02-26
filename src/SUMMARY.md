@@ -11,9 +11,9 @@
 
 - [🚧 Basics of Programming](ch02-00-basics-programming.md)
 
-- [🚧Advanced Programming and Development](ch03-00-advanced-programming.md)
+- [🚧 Advanced Programming and Development](ch03-00-advanced-programming.md)
 
-- [🚧 OSS Contributions and Community](ch04-00-open-source-and-community.md)
+- [OSS Contributions and Community](ch04-00-open-source-and-community.md)
 
 - [🚧 Blockchain Development](ch05-00-blockchain-development.md)
 
