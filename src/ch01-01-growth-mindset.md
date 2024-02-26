@@ -1,4 +1,5 @@
 # Understanding what's possible
+
 It's no secret people dream of "making it". But what does making it mean? At what point do you know when you officially make it? Is there a $ amount? Is there a specific lifestyle?
 
 I've had many conversations regarding this with highly successful people according to the metrics society cares about.
@@ -17,14 +18,16 @@ You leveled up significantly and the new level no longer feels like "making it".
 
 There's always a club on top of the club.
 
-This makes sense once you're in the middle of your ***Hero's Journey***, this is the most exciting aspect of the process... the experiences and effort of trying to accomplish your goals. The value isn't in the actual goal.
+This makes sense once you're in the middle of your **_Hero's Journey_**, this is the most exciting aspect of the process... the experiences and effort of trying to accomplish your goals. The value isn't in the actual goal.
 
 Most things of high value and that are worth pursuing in life, aren't easy to get.
 
 ## Cultivating a Growth Mindset
-At many points during the journey, it's common to feel like you can't keep going. Moments of doubt. 
+
+At many points during the journey, it's common to feel like you can't keep going. Moments of doubt.
 
 The infamous imposter syndrome...
+
 > "the persistent inability to believe that one's success is deserved or has been legitimately achieved as a result of one's own efforts or skills."
 
 Quick tips as to how you can overcome the imposter syndrome when ever it comes up, because it will.
@@ -35,4 +38,4 @@ Quick tips as to how you can overcome the imposter syndrome when ever it comes u
 - Celebrate your successes
 - Assess the evidence
 
-Growth is a never ending journey. Tune your brain. Observe your thoughts without judgement. 
+Growth is a never ending journey. Tune your brain. Observe your thoughts without judgement.

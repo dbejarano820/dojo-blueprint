@@ -1,21 +1,23 @@
 # The Dojo Blueprint
+
 Welcome to the Dojo Coding Blueprint. A simple and proven game-plan to become a globally competitive and talented software developer. One with the tools to live a life with time and location freedom while enjoying $3k-$20k/monthly income through a salary, freelancing or mix.
 
 This might be one of the most important documents you ever read to drastically scale your income as a developer and improve your quality of life. A shift in mindset will be had, many call it a transformation.
 
 It’s a very principal oriented game-plan.
 
-I personally created this freedom centered “blueprint” based on what has worked for me and the clients I’ve worked with. 
+I personally created this freedom centered “blueprint” based on what has worked for me and the clients I’ve worked with.
 
-I always like to highlight that technology is freedom IF you learn to leverage it. We are currently in one of the greatest wealth transfers in history, the emerging digital economies are right at the center of it. 
+I always like to highlight that technology is freedom IF you learn to leverage it. We are currently in one of the greatest wealth transfers in history, the emerging digital economies are right at the center of it.
 
-Developers are superstars. 
+Developers are superstars.
 
 Developers are athletes.
 
 Developers are investors.
 
 ### [Who will join the Dojo?](https://blueprint.dojo.io)
+
 <div style="text-align: center;">
     <img src="images/dojo-samurai.png" height="500" alt="Dojo Samurai">
 </dv>
