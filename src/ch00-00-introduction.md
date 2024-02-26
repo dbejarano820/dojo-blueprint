@@ -2,7 +2,7 @@
 
 In the 21st century, those who harness technology and contribute to the **digital renaissance** are positioned to succeed. But what does success look like? It's about crafting a lifestyle under your command, where developers stand at the forefront. With potential for high earnings, the flexibility to work from anywhere, and schedules that cater to personal needs, this profession offers not just challenges, but a deep sense of purpose.
 
-Yet, there are levels to this journey. Developers delve into networking, freelancing, and contributing to open-source projects are the ones who stand out. They play a pivotal role in constructing open financial systems and shaping the future of decentralized artificial intelligence via blockchain technology. 
+Yet, there are levels to this journey. Developers delve into networking, freelancing, and contributing to open-source projects are the ones who stand out. They play a pivotal role in constructing open financial systems and shaping the future of decentralized artificial intelligence via blockchain technology.
 
 The realm of possibilities is boundless; entrepreneurship thrives among those who dare to dream big. Now, more than ever, the digital renaissance is within reach.
 
@@ -15,39 +15,32 @@ Technology grants us unparalleled freedoms:
 
 This era empowers us to redefine success on our terms, using technology as the key to unlock a world of opportunities. You either become a competitive individual by positioning yourself accordingly in the digital age, or you live a life you can't design.
 
+**- Beja**
+
 ## Overview of the Blueprint
 
 The Dojo Blueprint is your strategic game plan designed to navigate the challenges and growth that come with pursuing coding, a high-income skill that when combined with foundational habits, offers a direct route to a life of freedom on your own terms. This guide is carefully crafted to elevate complete beginners to proficient developers who aim to participate in global communities at the forefront of innovation.
 
-Dive into the heart of the web3 revolution, where developers are pivotal in shaping a decentralized future, advocating for the ethos that "code is law." From contributing to open-source software to participating in the emerging digital economies powered by decentralized protocols, the Blueprint places you at the center of technological transformation.
+There's beauty in simplicity. Use this blueprint as a guide, it won't teach you to code... but it will guide to become a standout global individual in the tech industry.
 
-Acquiring such experiences will not only open numerous doors but will also refine and immensely elevate your professional profile, making it truly distinctive.
+Dive into the web3 revolution, where developers are the driving force behind shaping a decentralized future, **_code is law_**. From contributing to open-source software to participating in the emerging digital economies powered by decentralized protocols, the Dojo Blueprint places you at the center of technological transformation.
+
+Position yourself for new experiences, open new doors and make your professional profile immensely stand out.
 
 ### What to expect?
 
-Embarking on the Dojo Blueprint journey is the first step toward turning your passion for technology into a tangible skill set that can significantly impact your future. This journey is designed to progress from the fundamentals of programming to engaging in real-world projects and discussions that transcend geographical boundaries.
+Committing to the Dojo Blueprint journey is the first step toward turning your passion for technology into a tangible skill set that can significantly impact your future. This journey is designed to progress from the fundamentals of programming to engaging in real-world projects and discussions that transcend geographical boundaries.
 
 You'll also gain insights into the evolving digital economies and the dynamics of value transactions. It's a New World, and those who leverage and stay current with technology stand to gain immensely.
 
-**Here’s what you can look forward to:**
+**Key Highlights:**
 
-A Structured Path to Mastery
+- Self development and control over your habits is the first step towards dedication in the technology field. If you don't work on your discipline then it's unlikely that you will succeed as a programmer. It's a matter of practice and consistency.
+- Strong focus on an active GitHub profile, one that showcases you're a curious and consistent developer. One that both showcases your abilities and also demonstrates your growth over time.
+- Open Source Software contributions are a guaranteed way to both connect with talented individuals on a global scale and also make your profile much more attractive.
+- Development and strategic contributions in Web3 ecosystems can lead to life changing results.
 
-- Foundation Phase: Start from the ground up with the essentials of computer science and programming languages, building a robust foundation in logical thinking.
-
-- Development Phase: Advance to full-stack development, mastering both front-end and back-end technologies to create dynamic, responsive solutions for real-world challenges.
-
-- Blockchain Specialization: Immerse yourself in blockchain and cryptocurrencies, understanding the core of decentralized technology and beginning your journey in open-source contributions.
-
-Key Milestones:
-
-- First Project Launch: Bring your learning to life with a personal project that showcases your newfound skills.
-
-- Open Source Contributions: Make a meaningful impact with your initial introduction into open-source projects, enhancing your collaborative and development muscle.
-
-- Income growth: Secure your first role in software engineering, explore freelancing opportunities, and land high-earning, flexible positions in tech.
-
-- Hackathons and Networking: Experience the tech community first-hand through hackathons, Hacker Houses, or conferences, honing your networking skills—an indispensable asset in tech.
+**Focus on the tech, then the money will not be an issue.**
 
 ### Target Audience
 
@@ -57,20 +50,20 @@ Whether you're a beginner with minimal programming knowledge or a developer seek
 
 ## Philosophy and Approach
 
-The Dojo Blueprint stands out because of its foundational philosophy and unique approach. It combines coding with personal growth, setting it apart from other programs. The blueprint's mission is to sculpt proficient developers who are not only technically adept but also prepared for the challenges of the modern digital landscape.
+The Dojo Blueprint stands out because of its foundational philosophy and unique approach. It combines coding with personal growth, setting it apart from other programs. The blueprint's mission is to sculpt proficient developers who are not only technically skilled but also prepared for the challenges of the modern digital landscape.
 
 ### Core Philosophy:
 
-At the heart of the Dojo Blueprint is the belief that true mastery in coding transcends technical abilities. It requires a holistic approach that equally prioritizes personal development and the cultivation of a growth-oriented mindset. The journey to becoming a remarkable developer involves more than learning languages and frameworks; it's about nurturing a mindset that embraces challenges, values resilience, and seeks continuous growth.
+At the heart of the Dojo Blueprint is the belief that true mastery in coding transcends technical abilities. It requires a holistic approach that equally prioritizes personal development and the cultivation of a growth-oriented mindset. The journey to becoming a standout developer involves more than learning languages and frameworks; it's about nurturing a mindset that embraces challenges, values resilience, and seeks continuous growth.
 
-- **Life Engineering:** A balanced approach to learning, where coding skills are developed hand in hand with life skills.
+- **Life Engineering:** A balanced approach to learning, where focusing on habits and daily actions can enable the design of one's own lifestyle.
 - **Mindset and Skillset:** Emphasizing the importance of a resilient and growth-oriented mindset alongside technical skills, preparing learners for not just a career but a lifestyle of continuous improvement and adaptation.
 
 ### Integrated Learning:
 
-The Dojo Blueprint is designed to seamlessly integrate technical skills with essential soft skills, preparing learners for the real-world demands of the tech industry.
+Coders should be prepared for the real-world demands of the tech industry. Staying up to date with how technological trends move and always working on soft skills is crucial.
 
-- **More Than Coding:** By blending coding expertise with critical soft skills such as problem-solving, communication, and teamwork, you will should aim to be well-rounded and industry-ready.
+- **More Than Coding:** By blending coding expertise with critical soft skills such as problem-solving, communication, and teamwork, you will aim to be well-rounded and staying industry-ready.
 - **Learning by Doing:** Apply what's learned in practical, real-world scenarios, encouraging continuous learning and adaptation to new challenges.
 
 ### Community and Support:
