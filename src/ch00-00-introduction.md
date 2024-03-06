@@ -70,7 +70,7 @@ At the heart of the Dojo Blueprint is the belief that true mastery in coding tra
 
 The Dojo Blueprint is designed to seamlessly integrate technical skills with essential soft skills, preparing learners for the real-world demands of the tech industry.
 
-- **More Than Coding:** By blending coding expertise with critical soft skills such as problem-solving, communication, and teamwork, you will should aim to be well-rounded and industry-ready.
+- **More Than Coding:** By blending coding expertise with critical soft skills such as problem-solving, communication, and teamwork, you should aim to be well-rounded and industry-ready.
 - **Learning by Doing:** Apply what's learned in practical, real-world scenarios, encouraging continuous learning and adaptation to new challenges.
 
 ### Community and Support:
